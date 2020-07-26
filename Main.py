@@ -1,3 +1,5 @@
 #!/usr/bin/python
+def main(msg):
+    print(msg)
 
-print("Hello world")
+main("Hello people")
